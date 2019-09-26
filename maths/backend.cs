@@ -7,15 +7,22 @@ namespace Sieve.Maths
     { 
         public static void RecursiveSieve(int[] array, int prime)
         {
-            foreach (int number in array)
+            // foreach (int number in array)
+            for (int i = 0; i < array.Length; i++ )
             {
-                if (number % prime == 0)
+                if ( array[i] != prime)
                 {
-                    array[number] = 0;
+                    if (array[i] % prime == 0)
+                    {
+                        array[i] = 0;
+                    }
                 }
             }
             prime++;
+            if (prime< array.Length)
+            {
             RecursiveSieve(array, prime);
+            }
         }
     }
 }

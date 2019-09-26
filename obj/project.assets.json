@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/Guest/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\dcool\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/sieve/sieve.csproj",
+      "projectUniqueName": "C:\\Users\\dcool\\desktop\\ITP\\RecursiveSieve\\sieve.csproj",
       "projectName": "sieve",
-      "projectPath": "/Users/Guest/Desktop/sieve/sieve.csproj",
-      "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/sieve/obj/",
+      "projectPath": "C:\\Users\\dcool\\desktop\\ITP\\RecursiveSieve\\sieve.csproj",
+      "packagesPath": "C:\\Users\\dcool\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dcool\\desktop\\ITP\\RecursiveSieve\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Guest/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\dcool\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

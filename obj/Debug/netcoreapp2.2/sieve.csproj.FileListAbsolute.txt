@@ -9,3 +9,14 @@
 /Users/Guest/Desktop/sieve/bin/Debug/netcoreapp2.2/sieve.pdb
 /Users/Guest/Desktop/sieve/obj/Debug/netcoreapp2.2/sieve.dll
 /Users/Guest/Desktop/sieve/obj/Debug/netcoreapp2.2/sieve.pdb
+C:\Users\dcool\desktop\ITP\RecursiveSieve\bin\Debug\netcoreapp2.2\sieve.deps.json
+C:\Users\dcool\desktop\ITP\RecursiveSieve\bin\Debug\netcoreapp2.2\sieve.runtimeconfig.json
+C:\Users\dcool\desktop\ITP\RecursiveSieve\bin\Debug\netcoreapp2.2\sieve.runtimeconfig.dev.json
+C:\Users\dcool\desktop\ITP\RecursiveSieve\bin\Debug\netcoreapp2.2\sieve.dll
+C:\Users\dcool\desktop\ITP\RecursiveSieve\bin\Debug\netcoreapp2.2\sieve.pdb
+C:\Users\dcool\desktop\ITP\RecursiveSieve\obj\Debug\netcoreapp2.2\sieve.csprojAssemblyReference.cache
+C:\Users\dcool\desktop\ITP\RecursiveSieve\obj\Debug\netcoreapp2.2\sieve.csproj.CoreCompileInputs.cache
+C:\Users\dcool\desktop\ITP\RecursiveSieve\obj\Debug\netcoreapp2.2\sieve.AssemblyInfoInputs.cache
+C:\Users\dcool\desktop\ITP\RecursiveSieve\obj\Debug\netcoreapp2.2\sieve.AssemblyInfo.cs
+C:\Users\dcool\desktop\ITP\RecursiveSieve\obj\Debug\netcoreapp2.2\sieve.dll
+C:\Users\dcool\desktop\ITP\RecursiveSieve\obj\Debug\netcoreapp2.2\sieve.pdb
