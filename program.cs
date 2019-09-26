@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
+using Sieve.Maths;
 
-namespace Sieve
+namespace Sieve.Maths
 {
     public class Program
     {
@@ -18,7 +19,7 @@ namespace Sieve
             int prime = 2;
 
             int[] userArray = userList.ToArray();
-            RecursiveSieve(userArray, prime);
+            Backend.RecursiveSieve(userArray, prime);
 
             foreach ( int primi in userArray)
             {
