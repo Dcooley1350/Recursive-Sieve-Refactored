@@ -19,11 +19,7 @@ namespace Sieve.Maths
             int prime = 2;
 
             int[] userArray = userList.ToArray();
-            // Console.WriteLine(userArray.Length);
-            // foreach (int item in userArray)
-            // {
-            // Console.WriteLine(item);
-            // }
+            
             Backend.RecursiveSieve(userArray, prime);
 
             foreach ( int primi in userArray)

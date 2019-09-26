@@ -7,7 +7,7 @@ namespace Sieve.Maths
     { 
         public static void RecursiveSieve(int[] array, int prime)
         {
-            // foreach (int number in array)
+
             for (int i = 0; i < array.Length; i++ )
             {
                 if ( array[i] != prime)
@@ -19,6 +19,7 @@ namespace Sieve.Maths
                 }
             }
             prime++;
+            //Might need to add a plus one to array.length to deal with the 0-1 issue
             if (prime< array.Length)
             {
             RecursiveSieve(array, prime);
@@ -26,7 +27,6 @@ namespace Sieve.Maths
         }
     }
 }
-
 
 
 
